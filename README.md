@@ -1,45 +1,87 @@
-<div align="center">
-
 ```text
-                 ╲
-                  ╲
-                   ╲═══════════════════════════════════════╗
-                    ╲                                      ║
-                     ╲      K I N G  C E L E S T O         ║
-                      ╲═══════════════════════════════════════╝
-                       ╲
-                        ╲
-                         🗡️
+            .--------------------------.
+            |  K I N G  C E L E S T O  |
+            '--------------------------'
+
+    ╔══════════════════════════════════════════════════════════════════════╗
+    ║//////////////////////////////////////////////////////////////////////║
+    ║//////////////////////////////////////////////////////////////////////║
+    ║//////////////////////////////////////////////////////////////////////║
+    ╚══════════════════════════════════════════════════════════════════════╝
+                 ╲═══════════════════════════════════════════╱
+                  ╲═════════════════════════════════════════╱
+                   ╲═══════════════════════════════════════╱
+                       ╔═══════════════════════════════╗
+                       ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║
+                       ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║  ║
+                       ╚═══════════════════════════════╝
 ```
 
-# Hi, I'm David Charles 👋
-
-### Frontend Developer building clean, responsive, and user-focused web experiences.
-
-</div>
 # David Charles
 
-#### 🧑‍💻Frontend Developer | 📌Abuja Nigeria
+### Frontend Developer · Lagos, Nigeria
 
-Passionate and experienced frontend developer with a strong technical skill set aiming to leverage expertise in developing innovative web applications
+> Building clean, responsive, and user-focused web experiences—one precise line of code at a time.
 
-## Programming Languages & Skills
+[![Profile views](https://komarev.com/ghpvc/?username=KingCelesto&label=Profile%20views&color=111111&style=flat)](https://github.com/KingCelesto)
 
-![image](https://github.com/user-attachments/assets/298283f6-77e7-4f82-8b04-37e51e83da92)
-![104494_html5_html_icon](https://github.com/user-attachments/assets/3bce2b5c-6ad9-4cba-9283-f4d2240bf014)
-![8666401_markdown_icon](https://github.com/user-attachments/assets/bd272b82-723a-4e9b-a6d6-9bbf55ee2168)
-![4691465_flutter_icon (1)](https://github.com/user-attachments/assets/55e2f275-bca9-4f28-8b67-4ea768b2027b)
-![image](https://github.com/user-attachments/assets/4cb2861e-614d-417a-b0a6-ad76c256617d)
-![image](https://github.com/user-attachments/assets/919d93b6-11be-45b5-a4e3-8b85656fa01b)
+---
 
+## `01` · About Me
 
+```js
+const david = {
+  role: "Frontend Developer",
+  location: "Lagos, Nigeria",
+  focus: ["Responsive Websites", "Clean UI", "Web Applications"],
+  currentlyBuilding: "Useful projects and sharper frontend skills",
+  openTo: ["Internships", "Junior Frontend Roles", "Collaborations"]
+};
+```
 
-## Projects
-- [Marioclub](https://kingcelesto.github.io/Mario-project/)
-- [Recipe.com](https://kingcelesto.github.io/recipe/)
-- [Recipe2.0](https://kingcelesto.github.io/recipe2.0/)
-- [Zenith-Form](https://kingcelesto.github.io/Zenith-form/)
+---
 
-## Contact
-- [Whatsapp](https://wa.me/+2349079065787)
-- [Github](https://github.com/KingCelesto/)
+## `02` · Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=777BB4)
+![Flutter](https://img.shields.io/badge/Flutter-111111?style=for-the-badge&logo=flutter&logoColor=02569B)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
+
+---
+
+## `03` · Featured Projects
+
+| Project | What it is | Links |
+| :--- | :--- | :--- |
+| 🍄 **Mario Club** | Responsive frontend project inspired by the Mario universe | [Live demo](https://kingcelesto.github.io/Mario-project/) · [Code](https://github.com/KingCelesto/Mario-project) |
+| 🍝 **Recipe 2.0** | A recipe experience designed with usability in mind | [Live demo](https://kingcelesto.github.io/recipe2.0/) · [Code](https://github.com/KingCelesto/recipe2.0) |
+| 🏦 **Zenith Form** | A clear, user-friendly web form project | [Live demo](https://kingcelesto.github.io/Zenith-form/) · [Code](https://github.com/KingCelesto/Zenith-form) |
+| 📚 **More projects** | See experiments and additional work | [All repositories →](https://github.com/KingCelesto?tab=repositories) |
+
+---
+
+## `04` · GitHub Activity
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KingCelesto&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9&rank_icon=github" alt="David's GitHub statistics" />
+</p>
+
+<p align="left">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=KingCelesto&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="David's GitHub contribution streak" />
+</p>
+
+---
+
+## `05` · Connect
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-111111?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/2349079065787)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KingCelesto)
+
+---
+
+```text
+[ SHARPEN SKILLS · BUILD PROJECTS · KEEP MOVING FORWARD ]
+```
